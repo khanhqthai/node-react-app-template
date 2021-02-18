@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "yes",
+      "id": 1
+    },
+    {
+      "title": "Quake Champions",
+      "description": "1v1 duel",
+      "id": 2
+    },
+    {
+      "title": "Street Fighter V",
+      "description": "Capcom premier fighting game",
+      "id": 3
+    },
+    {
+      "title": "This finally works",
+      "description": "edited!",
+      "id": 4
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "you should not see this!",
+      "id": 5
+    },
+    {
+      "title": "Nintendo Direct",
+      "description": "Nintendo's lastest game announcement",
+      "userId": "102635677497586811366",
+      "id": 6
+    }
+  ]
+}
